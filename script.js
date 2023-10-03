@@ -1,4 +1,4 @@
-const endDate = "03 October 2023 08:59 PM"
+const endDate = "05 OCTOBER 2023 08:59 PM"
 document.getElementById("end-date").innerText = endDate // date dynamically refect on page
 const inputs = document.querySelectorAll("input")
 
